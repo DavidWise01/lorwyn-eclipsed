@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 28
+slug  : lorwyn-eclipsed
+seal  : 761af2fe808c974165a4668a35236aad0d2915e39a9af90412c7ce91e997fd46
+prev  : 2cc1ed6023e390d7197b48ab3d8d83843b54e2bdab143e78ff9b793ebe1591b5
+link  : ec9dbc5deddd5ff5b352921a187bfad80dc6af127bcdcdb3e89954aa165f5b71
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
